@@ -100,7 +100,7 @@ $$ \Delta f=-\frac{4\pi fx}{c\sqrt{h^2+l^2+x^2}} $$
 
 由之前推到出的多普勒频率关系可以得出：地距为l的点，对应的多普勒空间波数为f的瞬时，雷达在方位向上和目标的距离
 
-$$ x=\pm \frac{8c\delta f\sqrt{\frac{(4\pi f+c\delta f)(4\pi f-c\delta f)(h^2+l^2)}{64}}}{-16c^2\delta f^2+\pi ^2f^2} $$
+$$ x=\pm \frac{8c\Delta f\sqrt{\frac{(4\pi f+c\Delta f)(4\pi f-c\Delta f)(h^2+l^2)}{64}}}{-16c^2\Delta f^2+\pi ^2f^2} $$
 则瞬时斜矩斜距为
 
 $$ r=\sqrt{l^2+h^2+x^2} $$
